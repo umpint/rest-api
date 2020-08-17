@@ -59,7 +59,7 @@ Below shows 2345 hashes having been succesfully added to the queue and we are pr
 
 ```
 
-#Polling - Summary
+## Polling - Summary
 
 Once you have sent a request you can poll the status. We recommend waiting about 1 minute between polls.
 
